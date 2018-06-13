@@ -4,7 +4,9 @@ Mockups & concepts for eluseum.
 
 ## Examples
 
-![Home page mockup](home_page.png)
+![Home page mockup with wallpaper](home-page-with-wallpaper.png)
+
+![Home page mockup without wallpaper](home-page.png)
 
 ## License
 
